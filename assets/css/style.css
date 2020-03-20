@@ -959,6 +959,9 @@ input:focus {
 .form-item__input::placeholder {
   color: #637588;
 }
+.form-item__input1::placeholder {
+  color: #ffffff;
+}
 
 .form-item__input:hover,
 .form-item__input:focus {
